@@ -6,11 +6,11 @@
 
 ## Features
 
--xUnit Testing Framework: The unit tests are written using xUnit, a popular testing framework for .NET applications. xUnit provides a simple and elegant syntax for writing tests and offers powerful features for asserting expected behaviors.
+- xUnit Testing Framework: The unit tests are written using xUnit, a popular testing framework for .NET applications. xUnit provides a simple and elegant syntax for writing tests and offers powerful features for asserting expected behaviors.
 
--ASP.NET Core TestHost: The tests utilize the ASP.NET Core TestHost, which allows running HTTP integration tests against the API without the need for a separate web server. This enables testing the API endpoints in a controlled environment similar to the production environment.
+- ASP.NET Core TestHost: The tests utilize the ASP.NET Core TestHost, which allows running HTTP integration tests against the API without the need for a separate web server. This enables testing the API endpoints in a controlled environment similar to the production environment.
 
--Mocking Dependencies: Dependencies such as database access, external services, or other components are mocked using libraries like Moq. Mocking helps isolate the code under test and ensures that the tests focus solely on the behavior of the unit being tested.
+- Mocking Dependencies: Dependencies such as database access, external services, or other components are mocked using libraries like Moq. Mocking helps isolate the code under test and ensures that the tests focus solely on the behavior of the unit being tested.
 
 
 ## Technologies Used
