@@ -1,7 +1,6 @@
 
 # ASP.NET Core Web API Unit Testing
-
-        This project showcases unit testing techniques for an ASP.NET Core Web API using the xUnit testing framework. Unit testing is a critical aspect of software development, ensuring that individual components of the application function as expected in isolation. By testing the API controllers, services, and other components, developers can identify and fix bugs early in the development process, resulting in a more robust and reliable application
+This project showcases unit testing techniques for an ASP.NET Core Web API using the xUnit testing framework. Unit testing is a critical aspect of software development, ensuring that individual components of the application function as expected in isolation. By testing the API controllers, services, and other components, developers can identify and fix bugs early in the development process, resulting in a more robust and reliable application
 
 
 ## Features
